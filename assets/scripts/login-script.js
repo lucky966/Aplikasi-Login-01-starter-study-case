@@ -9,7 +9,7 @@
 const loginFormElement = document.querySelector("#loginForm")
 const inputEmailElement = document.querySelector("#inputEmail")
 const inputPasswordElement = document.querySelector("#inputPassword")
-/* Membuat variable untuk menyimpan informasi email & password */
+/* Mendeklarasikan variable untuk menyimpan informasi email & password */
 const expectedEmail = "admin@dicoding.com"
 const expectedPassword = "superpassword"
 
